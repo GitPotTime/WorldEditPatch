@@ -1,0 +1,13 @@
+name: "WorldEditPatch"
+version: 1.0
+main: "fr.pottime.wepatch.WEPatch"
+
+description: "Block bad world edit commands"
+author: "PotTime"
+authors: ["PotTime"]
+database: false
+
+permissions:
+  wepatch.admin:
+    description: "all permissions"
+    default: false

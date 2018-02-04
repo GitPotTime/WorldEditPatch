@@ -1,0 +1,6 @@
+active: true
+
+kickPlayer: true
+kickMessage: "&4Unauthorized action." # You can use ChatColor
+
+blockCommand: "&4Unauthorized action."
